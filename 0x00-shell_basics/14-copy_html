@@ -1,2 +1,2 @@
 #!/bin/bash
-cp --remove_destination *.html . .. 
+cp *.html --remove_destination . ..
