@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+# Display "best School" 10 time. and if the counter is 9, diplays "hello"
+
+
+i = 1
+until [ $i -gt 10]
+do
+    echo "Best School"
+    ((n++))
+done
